@@ -54,6 +54,10 @@ h2{
 .main-container .container-carrusel{
     margin: 2rem;
 }
+.fila a{
+    color: gray;
+    text-decoration: none;
+}
 
 /*Footer*/
 
