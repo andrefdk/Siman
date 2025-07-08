@@ -21,13 +21,9 @@ body {
 
 /*Main content*/
 
-.main-container .container-imagen img{
-    padding: 2rem;
-    max-width: 100vw;
-}
-
 .main-container h2{
-    font-family: 'roboto', 'arial';
+    font-family: 'Gill Sans', 'arial';
+    font-weight: bold;
     margin-top: 2rem;
     color: rgb(116, 20, 20);
     text-align: center;
@@ -35,6 +31,11 @@ body {
 
 p{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.main-container .container-imagen img{
+    padding: 2rem;
+    max-width: 100vw;
 }
 
 .main-container .container-cards{
@@ -63,6 +64,9 @@ p{
     color: gray;
     text-decoration: none;
 }
+
+
+
 
 /*Footer*/
 
